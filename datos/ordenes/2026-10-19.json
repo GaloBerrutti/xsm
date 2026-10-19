@@ -1,0 +1,105 @@
+{
+ "semana": "2026-10-19",
+ "modo": "simulado",
+ "publicado_utc": "2026-10-19T00:17:55Z",
+ "corte_utc": "2026-10-19T00:17:00Z",
+ "inicio_utc": "2026-10-19T00:19:00Z",
+ "posiciones": [
+  {
+   "par": "BTWUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 2.40919,
+   "limite": 2.22216
+  },
+  {
+   "par": "NEARUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 5.013,
+   "limite": 4.819
+  },
+  {
+   "par": "QNTUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 192.12,
+   "limite": 175.46
+  },
+  {
+   "par": "STRKUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.06038,
+   "limite": 0.05589
+  },
+  {
+   "par": "WLDUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.4885,
+   "limite": 0.4707
+  },
+  {
+   "par": "ZROUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 1.8617,
+   "limite": 1.7964
+  },
+  {
+   "par": "ARBUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.18689,
+   "limite": 0.19197
+  },
+  {
+   "par": "HYPEUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 78.899,
+   "limite": 80.062
+  },
+  {
+   "par": "LITUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 3.0765,
+   "limite": 3.1602
+  },
+  {
+   "par": "TRUMPUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 1.727,
+   "limite": 1.763
+  },
+  {
+   "par": "UNIUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 7.192,
+   "limite": 7.401
+  },
+  {
+   "par": "ZECUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 1130.29,
+   "limite": 1161.05
+  }
+ ]
+}
