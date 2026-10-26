@@ -1,0 +1,93 @@
+{
+ "semana": "2026-10-26",
+ "modo": "simulado",
+ "publicado_utc": "2026-10-26T07:36:44Z",
+ "corte_utc": "2026-10-26T07:36:00Z",
+ "inicio_utc": "2026-10-26T07:38:00Z",
+ "posiciones": [
+  {
+   "par": "1000PEPEUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.004278,
+   "limite": 0.004184
+  },
+  {
+   "par": "BTWUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue"
+  },
+  {
+   "par": "INJUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 7.868,
+   "limite": 7.649
+  },
+  {
+   "par": "STRKUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue"
+  },
+  {
+   "par": "TIAUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.5319,
+   "limite": 0.5113
+  },
+  {
+   "par": "ZROUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue"
+  },
+  {
+   "par": "ARBUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue"
+  },
+  {
+   "par": "LITUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue"
+  },
+  {
+   "par": "ONDOUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.4075,
+   "limite": 0.4162
+  },
+  {
+   "par": "QNTUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 190.12,
+   "limite": 197.03
+  },
+  {
+   "par": "SUIUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "precio_lunes": 0.92,
+   "limite": 0.9373
+  },
+  {
+   "par": "UNIUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue"
+  }
+ ]
+}
