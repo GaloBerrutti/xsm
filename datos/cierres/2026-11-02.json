@@ -1,0 +1,139 @@
+{
+ "semana": "2026-11-02",
+ "inicio_utc": "2026-11-02T00:19:00Z",
+ "corte_utc": "2026-11-09T00:16:00Z",
+ "fin_utc": "2026-11-09T00:18:00Z",
+ "posiciones": [
+  {
+   "par": "1000PEPEUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "llenada",
+   "llenada_utc": "2026-11-02T14:13:00Z",
+   "entrada": 0.004751,
+   "salida": 0.005036,
+   "sale": false,
+   "financiacion": 0.00038681000000000007,
+   "resultado": 0.004883380089981058
+  },
+  {
+   "par": "HYPEUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "llenada",
+   "llenada_utc": "2026-11-02T06:41:00Z",
+   "entrada": 86.382,
+   "salida": 75.11,
+   "sale": true,
+   "financiacion": 0.0012629100000000001,
+   "resultado": -0.011146088200879043
+  },
+  {
+   "par": "QUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "no_llego",
+   "resultado": 0.0
+  },
+  {
+   "par": "TIAUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue",
+   "estado": "sigue",
+   "entrada": 0.472,
+   "salida": 0.415,
+   "sale": true,
+   "financiacion": 0.001434589999999999,
+   "resultado": -0.010266441822033899
+  },
+  {
+   "par": "XMRUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "no_llego",
+   "resultado": 0.0
+  },
+  {
+   "par": "ZROUSDT",
+   "lado": "compra",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue",
+   "estado": "sigue",
+   "entrada": 1.7985,
+   "salida": 1.5691,
+   "sale": true,
+   "financiacion": 0.0016576899999999988,
+   "resultado": -0.010850702227087389
+  },
+  {
+   "par": "AAVEUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "no_llego",
+   "resultado": 0.0
+  },
+  {
+   "par": "ADAUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "llenada",
+   "llenada_utc": "2026-11-04T14:48:00Z",
+   "entrada": 0.1966,
+   "salida": 0.1764,
+   "sale": true,
+   "financiacion": 0.00044638999999999996,
+   "resultado": 0.008432756982875551
+  },
+  {
+   "par": "PUMPFUNUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "llenada",
+   "llenada_utc": "2026-11-03T18:34:00Z",
+   "entrada": 0.004317,
+   "salida": 0.003563,
+   "sale": false,
+   "financiacion": 0.00011558000000000016,
+   "resultado": 0.014481158961856217
+  },
+  {
+   "par": "STRKUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "no_llego",
+   "resultado": 0.0
+  },
+  {
+   "par": "SUIUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "sigue",
+   "estado": "sigue",
+   "entrada": 0.8949,
+   "salida": 0.8267,
+   "sale": true,
+   "financiacion": 0.0004234200000000001,
+   "resultado": 0.006302754363429811
+  },
+  {
+   "par": "WLDUSDT",
+   "lado": "venta",
+   "peso": 0.08333333333333333,
+   "tipo": "orden",
+   "estado": "no_llego",
+   "resultado": 0.0
+  }
+ ],
+ "resultado": 0.001836818148142308,
+ "cuenta_inicio": 0.9571376504340875,
+ "cuenta_fin": 0.9588957382406751
+}
